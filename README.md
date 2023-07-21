@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at **www.awimpenny.com**
 - ⚡ Fun fact **I used to be a bricklayter**
 
-<div> <a href="https://github.com/awimpoenny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/awimpenny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/a.wimpenny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:example@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
