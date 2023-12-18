@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Adam Wimpenny</h1>
+<h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awimpoenny&label=Profile%20views&color=0e75b6&style=flat" alt="awimpoenny" /> </p>
 
-- 🔭 I’m currently working on [JadedTattooStudios](thinkink.com)
+- 🔭 I’m currently working on [Evol-ve](evol-ve.com)
 - 🌱 I’m currently learning **Next JS and Tailwind CSS**
 
-- 📫 How to reach me **example@example.com**
+- 📫 How to reach me **adamwimps2@outlook.com**
 - 👨‍💻 All of my projects are available at **www.awimpenny.com**
-- ⚡ Fun fact **I used to be a bricklayter**
+- ⚡ Fun fact **I used to be a bricklayer**
 
 <div> <a href="https://github.com/awimpenny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/a.wimpenny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
