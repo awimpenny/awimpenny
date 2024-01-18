@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [Evol-ve](https://evol-ve.com)
 - 🌱 I’m currently learning **Next JS and Tailwind CSS**
 
-- 📫 How to reach me **adamwimps2@outlook.com**
-- 👨‍💻 All of my projects are available at **www.awimpenny.com**
+- 📫 How to reach me **info@adamwebdesign.co.uk**
+- 👨‍💻 All of my projects are available at **https://www.adamwebdesign.co.uk**
 - ⚡ Fun fact **I used to be a bricklayer**
 
 <div> <a href="https://github.com/awimpenny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
